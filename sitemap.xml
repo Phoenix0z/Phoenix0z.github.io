@@ -16,28 +16,14 @@
   </url>
   
   <url>
+    <loc>https://noel.com/about/index.html</loc>
+    
+    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://noel.com/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/categories/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/friends/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/tags/index.html</loc>
     
     <lastmod>2020-04-05T02:43:42.000Z</lastmod>
     
@@ -51,7 +37,21 @@
   </url>
   
   <url>
-    <loc>https://noel.com/about/index.html</loc>
+    <loc>https://noel.com/friends/index.html</loc>
+    
+    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/tags/index.html</loc>
     
     <lastmod>2020-04-05T02:43:42.000Z</lastmod>
     
