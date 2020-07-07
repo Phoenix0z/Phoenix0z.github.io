@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://noel.com/404.html</loc>
+    
+    <lastmod>2020-07-07T00:50:45.900Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/friends/index.html</loc>
+    
+    <lastmod>2020-07-07T00:40:15.411Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/contact/index.html</loc>
+    
+    <lastmod>2020-07-07T00:38:47.706Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/about/index.html</loc>
+    
+    <lastmod>2020-07-07T00:36:57.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/tags/index.html</loc>
+    
+    <lastmod>2020-07-07T00:20:18.078Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://noel.com/categories/index.html</loc>
+    
+    <lastmod>2020-07-07T00:19:53.233Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://noel.com/2020/02/16/sort-algorithms/</loc>
     
     <lastmod>2020-04-05T02:43:42.000Z</lastmod>
@@ -9,49 +51,7 @@
   </url>
   
   <url>
-    <loc>https://noel.com/404.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://noel.com/archives/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/categories/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/friends/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/about/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/tags/index.html</loc>
-    
-    <lastmod>2020-04-05T02:43:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://noel.com/contact/index.html</loc>
     
     <lastmod>2020-04-05T02:43:42.000Z</lastmod>
     
