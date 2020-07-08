@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Noel的博客</title>
   
-  <subtitle>算法码上来</subtitle>
+  <subtitle>Coding &amp; Math 伟大且充满魅力</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://noel.com/"/>
-  <updated>2020-07-08T14:51:02.661Z</updated>
+  <updated>2020-07-08T15:04:45.620Z</updated>
   <id>https://noel.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://noel.com/2020/07/08/daily-planning/"/>
     <id>https://noel.com/2020/07/08/daily-planning/</id>
     <published>2020-07-08T14:42:48.000Z</published>
-    <updated>2020-07-08T14:51:02.661Z</updated>
+    <updated>2020-07-08T15:04:45.620Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,8 @@
       
         
         
-          &lt;h2 id=&quot;ML的基础学习&quot;&gt;&lt;a href=&quot;#ML的基础学习&quot; class=&quot;headerlink&quot; title=&quot;ML的基础学习&quot;&gt;&lt;/a&gt;ML的基础学习&lt;/h2&gt;&lt;p&gt;《统计学习方法》&lt;/p&gt;
-&lt;h2 id=&quot;数据结构、算法基础&quot;&gt;&lt;a
+          &lt;h3 id=&quot;最重要&quot;&gt;&lt;a href=&quot;#最重要&quot; class=&quot;headerlink&quot; title=&quot;最重要&quot;&gt;&lt;/a&gt;最重要&lt;/h3&gt;&lt;p&gt;经常复习自己制定的计划、说过的话、做过的承诺&lt;br&gt;经常思考自己当下的状态、下一步的安排、更久一点的规划&lt;/p&gt;
+&lt;h2
         
       
     
