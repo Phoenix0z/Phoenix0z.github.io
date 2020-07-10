@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Science-diary</title>
+      <link href="/2020/07/09/science-diary/"/>
+      <url>/2020/07/09/science-diary/</url>
+      
+        <content type="html"><![CDATA[<h3 id="2020-7-10"><a href="#2020-7-10" class="headerlink" title="2020 7 10"></a>2020 7 10</h3><blockquote><p>认为自己目前应该做的事情<br>用2天时间来复习，回顾小组所做的涉及到的内容，相当于你去参加了暑研，然后师兄把他们的历史工作给你介绍了一下，你现在需要学习历史工作，并从中找到可以做的点。</p></blockquote><h3 id="2020-7-9"><a href="#2020-7-9" class="headerlink" title="2020 7 9"></a>2020 7 9</h3><blockquote><p>学到的建议<br>老师的建议是做一个非常小的点，很小很小，也就是你更需要的是把这个流程走出来。小到某个公式的改进，<br>你可以把工具变量 引入到某个已有的模型中，<br>如果这样的话你需要把目前的你可能熟悉的领域进行整理，然后重新审视<br>还是要听老师的，比如你可以从师兄的研究入手<br>一定要听老师的，老师的经验非常值得学习<br>如果你现在可以开始写论文，那么你准备好了吗？latex等内容都要日常就进行准备</p></blockquote><blockquote><p>反思<br>其实这是一个必须经历的门槛，选题方面是否存在眼高手低的问题，以及对未来的一种视野</p></blockquote><blockquote><p>体会<br>不用变看边记笔记，尝试记在脑子里，看完以后在大脑里回顾，然后把有价值的简单记下来</p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>日程规划</title>
       <link href="/2020/07/08/daily-planning/"/>
       <url>/2020/07/08/daily-planning/</url>
@@ -50,7 +63,7 @@
       <link href="/2020/07/08/iv-note-1/"/>
       <url>/2020/07/08/iv-note-1/</url>
       
-        <content type="html"><![CDATA[<h3 id="可参考链接"><a href="#可参考链接" class="headerlink" title="可参考链接"></a>可参考链接</h3><p>维基百科 <a href="https://en.wikipedia.org/wiki/Instrumental_variables_estimation" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Instrumental_variables_estimation</a></p><p>知乎economics-lover <a href="https://zhuanlan.zhihu.com/p/32443865" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/32443865</a></p><p>《经济学服务中心》 <a href="https://bbs.pinggu.org/thread-4673021-1-1.html" target="_blank" rel="noopener">https://bbs.pinggu.org/thread-4673021-1-1.html</a></p><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><h3 id="顶会中的相关论文"><a href="#顶会中的相关论文" class="headerlink" title="顶会中的相关论文"></a>顶会中的相关论文</h3>]]></content>
+        <content type="html"><![CDATA[<h3 id="可参考链接"><a href="#可参考链接" class="headerlink" title="可参考链接"></a>可参考链接</h3><p>维基百科 <a href="https://en.wikipedia.org/wiki/Instrumental_variables_estimation" target="_blank" rel="noopener">https://en.wikipedia.org/wiki/Instrumental_variables_estimation</a></p><p>知乎economics-lover <a href="https://zhuanlan.zhihu.com/p/32443865" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/32443865</a></p><h3 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h3><p>解决内生性问题</p><p>研究工资水平wage是由什么决定的，可能的因素有性别male，年龄age，智商IQ，有下面公式：<br>$$ wage =  \beta_0 + \beta_1 age + \beta_2male + \beta_3IQ + u $$ </p><p>()</p><h3 id="性质"><a href="#性质" class="headerlink" title="性质"></a>性质</h3><p>1.</p><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><h3 id="顶会中的相关论文"><a href="#顶会中的相关论文" class="headerlink" title="顶会中的相关论文"></a>顶会中的相关论文</h3>]]></content>
       
       
       
